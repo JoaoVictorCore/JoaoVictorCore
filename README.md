@@ -64,8 +64,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JoaoVictorCore/JoaoVictorCore/output/snake.svg" alt="Snake animation" />
 
 ###
