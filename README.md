@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Olá mundo<br>Me chamo João victor e estou aprendendo sobre programação<br><br><br>Atualmente estudando HTML e CSS</p>
+<p align="left">Olá mundo<br>Me chamo João victor e estou aprendendo sobre programação<br><br><br>Atualmente estudando HTML, CSS,JavaScript e Node.js</p>
 
 ###
 
@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+          
 </div>
 
 ###
