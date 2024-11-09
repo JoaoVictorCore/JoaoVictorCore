@@ -43,3 +43,6 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=Historia-do-android&theme=jolly)](https://github.com/JoaoVictorCore/Historia-do-android)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=Social-links-profile&theme=jolly)](https://github.com/JoaoVictorCore/Social-links-profile)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=trilha-css-desafio-01&theme=jolly)](https://github.com/JoaoVictorCore/trilha-css-desafio-01)
+
