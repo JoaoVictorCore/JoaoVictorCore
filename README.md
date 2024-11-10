@@ -47,3 +47,5 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=trilha-css-desafio-01&theme=jolly)](https://github.com/JoaoVictorCore/trilha-css-desafio-01)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=jogo-detona-ralp&theme=jolly)](https://github.com/JoaoVictorCore/jogo-detona-ralp)
+
