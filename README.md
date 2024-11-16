@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JoaoVictorCore)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jotave.brito/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:joaovictor.contato2003@gmail.com)
-[![Linkedim](https://img.shields.io/badge/-Linkedim-%23E4405F?style=for-the-badge&logo=limkedim&logoColor=white)]((https://www.linkedin.com/in/joao-victor-780734226/))
+[![Linkedin](https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=limkedin&logoColor=white)](https://www.linkedin.com/in/joao-victor-780734226/)
 
 **Aprendendo mais sobre:**
 
