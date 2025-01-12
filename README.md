@@ -50,3 +50,4 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=jogo-detona-ralp&theme=jolly)](https://github.com/JoaoVictorCore/jogo-detona-ralp)
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=nivel-heroi&theme=jolly)](https://github.com/JoaoVictorCore/nivel-heroi)
