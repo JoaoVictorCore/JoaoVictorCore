@@ -2,9 +2,9 @@
 
 **Sobre mim:**
 - 🙋 Me chamo João Victor
-- 📚 Estudande de programação focado em front end
+- 📚 Estudande de programação focado em Back-end
 - 🔎 Estou sempre explorando e lendo sobre novas tecnologias para aprender
-- 💻 Tenho um sonho de um dia atuar na área que estudo como desenvolvedor **Front-end**
+- 💻 Tenho um sonho de um dia atuar na área que estudo como desenvolvedor **Back-end**
 
 **Onde me encontrar**
 
@@ -15,9 +15,9 @@
 
 **Aprendendo mais sobre:**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
+![Aws](https://img.shields.io/badge/Aws-20232A?style=for-the-badge&logo=aws&logoColor=61DAFB)
+![MySql](https://img.shields.io/badge/MySql-DD0031?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Habilidades**
 
@@ -29,6 +29,8 @@
 
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![Intelij](https://img.shields.io/badge/InteliJ-696969?style=for-the-badge&logo=intelij&logoColor=figma)
+
 
 ## 📊**GitHub Stats**
 
