@@ -2,7 +2,7 @@
 
 **Sobre mim:**
 - 🙋 Me chamo João Victor
-- 📚 Estudande de programação focado em Back-end
+- 📚 Estudante de programação focado em Back-end
 - 🔎 Estou sempre explorando e lendo sobre novas tecnologias para aprender
 - 💻 Tenho um sonho de um dia atuar na área que estudo como desenvolvedor **Back-end**
 
@@ -40,19 +40,11 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoVictorCore&theme=jolly)
 
-## 📋**Repositorios**
+#
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=dio-lab-open-source&theme=jolly)](https://github.com/JoaoVictorCore/dio-lab-open-source)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=Historia-do-android&theme=jolly)](https://github.com/JoaoVictorCore/Historia-do-android)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=Social-links-profile&theme=jolly)](https://github.com/JoaoVictorCore/Social-links-profile)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=trilha-css-desafio-01&theme=jolly)](https://github.com/JoaoVictorCore/trilha-css-desafio-01)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=jogo-detona-ralp&theme=jolly)](https://github.com/JoaoVictorCore/jogo-detona-ralp)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=nivel-heroi&theme=jolly)](https://github.com/JoaoVictorCore/nivel-heroi)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JoaoVictorCore&repo=Jogo-da-memoria&theme=jolly)](https://github.com/JoaoVictorCore/Jogo-da-memoria)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
